@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GoogleAuthenticator/1.0.0": {
+        "dependencies": {
+          "Otp.NET": "1.2.2"
+        },
+        "runtime": {
+          "GoogleAuthenticator.dll": {}
+        }
+      },
+      "Otp.NET/1.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/Otp.NET.dll": {
+            "assemblyVersion": "1.2.2.0",
+            "fileVersion": "1.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoogleAuthenticator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Otp.NET/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2hrZfkbzeWJ3tNXXt/1beg4IY+nS4F3gIfh4NVFvW0f6Pj51hGpiJ4prBz7Dmrr4ZYrA96rTERVGieZ4xYm7jA==",
+      "path": "otp.net/1.2.2",
+      "hashPath": "otp.net.1.2.2.nupkg.sha512"
+    }
+  }
+}

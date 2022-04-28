@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pd/JVWf5mPqwo586pb4QNsgpq1dk46TZhhGFlBjfkZVq+NKvWRRYF5qAQPNAQI1U1cDOQpt8nj4PQylIxNuSxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user3\\source\\GoogleAuthenticator\\GoogleAuthenticator\\GoogleAuthenticator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user3\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512",
+    "C:\\Users\\user3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
