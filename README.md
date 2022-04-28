@@ -1,5 +1,5 @@
     Install-Package Otp.NET
-###### ##### 	Ardından, aşağıdaki kodu kullanarak paylaşılan bir sır oluşturmak ve çıktısını almak gerçekten kolaydır:# 	Ardından, aşağıdaki kodu kullanarak paylaşılan bir sır oluşturmak ve çıktısını almak gerçekten kolaydır:
+###### Ardından, aşağıdaki kodu kullanarak paylaşılan bir sır oluşturmak ve çıktısını almak gerçekten kolaydır:# 	Ardından, aşağıdaki kodu kullanarak paylaşılan bir sır oluşturmak ve çıktısını almak gerçekten kolaydır:
     var secret = KeyGeneration.GenerateRandomKey(20);
     var base32Secret = Base32Encoding.ToString(secret);
     Console.WriteLine(base32Secret);
